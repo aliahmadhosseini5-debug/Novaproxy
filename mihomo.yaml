@@ -44,22 +44,22 @@ proxies:
     mtu: 1280
     amnezia-wg-option: {jc: 4, jmin: 40, jmax: 70}
   - {name: "سرویس رایگان نوا nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev:443 [VLESS]", server: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, port: 443, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 8.39.125.165:443 [VLESS]", server: 8.39.125.165, port: 443, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.28.125:443 [VLESS]", server: 104.17.28.125, port: 443, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.50.44:2096 [VLESS]", server: 104.17.50.44, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.153.183:2087 [VLESS]", server: 104.17.153.183, port: 2087, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.18.33.182:8443 [VLESS]", server: 104.18.33.182, port: 8443, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 198.41.223.148:2053 [VLESS]", server: 198.41.223.148, port: 2053, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 173.245.58.243:2087 [VLESS]", server: 173.245.58.243, port: 2087, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.26.2.60:2053 [VLESS]", server: 104.26.2.60, port: 2053, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 91.193.58.63:443 [VLESS]", server: 91.193.58.63, port: 443, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.52.211:2053 [VLESS]", server: 104.19.52.211, port: 2053, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.16.241.33:2096 [VLESS]", server: 104.16.241.33, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.26.13.242:2087 [VLESS]", server: 104.26.13.242, port: 2087, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.144.236:2083 [VLESS]", server: 104.19.144.236, port: 2083, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 198.41.223.227:8443 [VLESS]", server: 198.41.223.227, port: 8443, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.31.244:2087 [VLESS]", server: 104.17.31.244, port: 2087, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 8.39.125.155:2083 [VLESS]", server: 8.39.125.155, port: 2083, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 172.66.0.227:443 [VLESS]", server: 172.66.0.227, port: 443, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.149.159:2096 [VLESS]", server: 104.17.149.159, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.18.33.189:2053 [VLESS]", server: 104.18.33.189, port: 2053, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.34.78:2096 [VLESS]", server: 104.19.34.78, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.38.199:8443 [VLESS]", server: 162.159.38.199, port: 8443, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 172.66.3.101:2083 [VLESS]", server: 172.66.3.101, port: 2083, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.25.171:2083 [VLESS]", server: 104.17.25.171, port: 2083, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.38.23:2053 [VLESS]", server: 162.159.38.23, port: 2053, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.39.142:2053 [VLESS]", server: 162.159.39.142, port: 2053, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.111.6:2096 [VLESS]", server: 104.17.111.6, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.175.84:2096 [VLESS]", server: 104.17.175.84, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.55.143:2096 [VLESS]", server: 104.19.55.143, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 198.41.223.170:2083 [VLESS]", server: 198.41.223.170, port: 2083, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.149.206:2096 [VLESS]", server: 104.17.149.206, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.124.106:2096 [VLESS]", server: 104.17.124.106, port: 2096, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.170.133:2083 [VLESS]", server: 104.17.170.133, port: 2083, type: vless, uuid: e10999c1-62a5-416a-8a4c-14d16b694acb, tls: true, skip-cert-verify: false, servername: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -71,22 +71,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 8.39.125.165:443 [VLESS]
-      - سرویس رایگان نوا 104.17.28.125:443 [VLESS]
-      - سرویس رایگان نوا 104.17.50.44:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.153.183:2087 [VLESS]
-      - سرویس رایگان نوا 104.18.33.182:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.148:2053 [VLESS]
-      - سرویس رایگان نوا 173.245.58.243:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.60:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.63:443 [VLESS]
-      - سرویس رایگان نوا 104.19.52.211:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.241.33:2096 [VLESS]
-      - سرویس رایگان نوا 104.26.13.242:2087 [VLESS]
-      - سرویس رایگان نوا 104.19.144.236:2083 [VLESS]
-      - سرویس رایگان نوا 198.41.223.227:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.31.244:2087 [VLESS]
-      - سرویس رایگان نوا 8.39.125.155:2083 [VLESS]
+      - سرویس رایگان نوا 172.66.0.227:443 [VLESS]
+      - سرویس رایگان نوا 104.17.149.159:2096 [VLESS]
+      - سرویس رایگان نوا 104.18.33.189:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.34.78:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.199:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.3.101:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.25.171:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.23:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.39.142:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.111.6:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.175.84:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.55.143:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.170:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.149.206:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.124.106:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.170.133:2083 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -94,44 +94,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 8.39.125.165:443 [VLESS]
-      - سرویس رایگان نوا 104.17.28.125:443 [VLESS]
-      - سرویس رایگان نوا 104.17.50.44:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.153.183:2087 [VLESS]
-      - سرویس رایگان نوا 104.18.33.182:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.148:2053 [VLESS]
-      - سرویس رایگان نوا 173.245.58.243:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.60:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.63:443 [VLESS]
-      - سرویس رایگان نوا 104.19.52.211:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.241.33:2096 [VLESS]
-      - سرویس رایگان نوا 104.26.13.242:2087 [VLESS]
-      - سرویس رایگان نوا 104.19.144.236:2083 [VLESS]
-      - سرویس رایگان نوا 198.41.223.227:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.31.244:2087 [VLESS]
-      - سرویس رایگان نوا 8.39.125.155:2083 [VLESS]
+      - سرویس رایگان نوا 172.66.0.227:443 [VLESS]
+      - سرویس رایگان نوا 104.17.149.159:2096 [VLESS]
+      - سرویس رایگان نوا 104.18.33.189:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.34.78:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.199:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.3.101:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.25.171:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.23:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.39.142:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.111.6:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.175.84:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.55.143:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.170:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.149.206:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.124.106:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.170.133:2083 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 8.39.125.165:443 [VLESS]
-      - سرویس رایگان نوا 104.17.28.125:443 [VLESS]
-      - سرویس رایگان نوا 104.17.50.44:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.153.183:2087 [VLESS]
-      - سرویس رایگان نوا 104.18.33.182:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.148:2053 [VLESS]
-      - سرویس رایگان نوا 173.245.58.243:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.60:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.63:443 [VLESS]
-      - سرویس رایگان نوا 104.19.52.211:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.241.33:2096 [VLESS]
-      - سرویس رایگان نوا 104.26.13.242:2087 [VLESS]
-      - سرویس رایگان نوا 104.19.144.236:2083 [VLESS]
-      - سرویس رایگان نوا 198.41.223.227:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.31.244:2087 [VLESS]
-      - سرویس رایگان نوا 8.39.125.155:2083 [VLESS]
+      - سرویس رایگان نوا 172.66.0.227:443 [VLESS]
+      - سرویس رایگان نوا 104.17.149.159:2096 [VLESS]
+      - سرویس رایگان نوا 104.18.33.189:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.34.78:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.199:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.3.101:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.25.171:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.23:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.39.142:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.111.6:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.175.84:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.55.143:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.170:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.149.206:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.124.106:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.170.133:2083 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -139,22 +139,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 8.39.125.165:443 [VLESS]
-      - سرویس رایگان نوا 104.17.28.125:443 [VLESS]
-      - سرویس رایگان نوا 104.17.50.44:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.153.183:2087 [VLESS]
-      - سرویس رایگان نوا 104.18.33.182:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.148:2053 [VLESS]
-      - سرویس رایگان نوا 173.245.58.243:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.60:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.63:443 [VLESS]
-      - سرویس رایگان نوا 104.19.52.211:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.241.33:2096 [VLESS]
-      - سرویس رایگان نوا 104.26.13.242:2087 [VLESS]
-      - سرویس رایگان نوا 104.19.144.236:2083 [VLESS]
-      - سرویس رایگان نوا 198.41.223.227:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.31.244:2087 [VLESS]
-      - سرویس رایگان نوا 8.39.125.155:2083 [VLESS]
+      - سرویس رایگان نوا 172.66.0.227:443 [VLESS]
+      - سرویس رایگان نوا 104.17.149.159:2096 [VLESS]
+      - سرویس رایگان نوا 104.18.33.189:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.34.78:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.199:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.3.101:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.25.171:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.23:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.39.142:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.111.6:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.175.84:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.55.143:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.170:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.149.206:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.124.106:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.170.133:2083 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -181,22 +181,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 8.39.125.165:443 [VLESS]
-      - سرویس رایگان نوا 104.17.28.125:443 [VLESS]
-      - سرویس رایگان نوا 104.17.50.44:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.153.183:2087 [VLESS]
-      - سرویس رایگان نوا 104.18.33.182:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.148:2053 [VLESS]
-      - سرویس رایگان نوا 173.245.58.243:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.60:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.63:443 [VLESS]
-      - سرویس رایگان نوا 104.19.52.211:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.241.33:2096 [VLESS]
-      - سرویس رایگان نوا 104.26.13.242:2087 [VLESS]
-      - سرویس رایگان نوا 104.19.144.236:2083 [VLESS]
-      - سرویس رایگان نوا 198.41.223.227:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.31.244:2087 [VLESS]
-      - سرویس رایگان نوا 8.39.125.155:2083 [VLESS]
+      - سرویس رایگان نوا 172.66.0.227:443 [VLESS]
+      - سرویس رایگان نوا 104.17.149.159:2096 [VLESS]
+      - سرویس رایگان نوا 104.18.33.189:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.34.78:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.199:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.3.101:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.25.171:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.23:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.39.142:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.111.6:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.175.84:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.55.143:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.170:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.149.206:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.124.106:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.170.133:2083 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -209,22 +209,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا nova-pearl-stack-4d05.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 8.39.125.165:443 [VLESS]
-      - سرویس رایگان نوا 104.17.28.125:443 [VLESS]
-      - سرویس رایگان نوا 104.17.50.44:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.153.183:2087 [VLESS]
-      - سرویس رایگان نوا 104.18.33.182:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.148:2053 [VLESS]
-      - سرویس رایگان نوا 173.245.58.243:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.60:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.63:443 [VLESS]
-      - سرویس رایگان نوا 104.19.52.211:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.241.33:2096 [VLESS]
-      - سرویس رایگان نوا 104.26.13.242:2087 [VLESS]
-      - سرویس رایگان نوا 104.19.144.236:2083 [VLESS]
-      - سرویس رایگان نوا 198.41.223.227:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.31.244:2087 [VLESS]
-      - سرویس رایگان نوا 8.39.125.155:2083 [VLESS]
+      - سرویس رایگان نوا 172.66.0.227:443 [VLESS]
+      - سرویس رایگان نوا 104.17.149.159:2096 [VLESS]
+      - سرویس رایگان نوا 104.18.33.189:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.34.78:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.199:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.3.101:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.25.171:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.23:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.39.142:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.111.6:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.175.84:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.55.143:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.170:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.149.206:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.124.106:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.170.133:2083 [VLESS]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
