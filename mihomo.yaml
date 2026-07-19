@@ -32,22 +32,22 @@ proxies:
   - {name: "📢 https://t.me/irnova_proxy", server: 192.0.2.1, port: 443, type: vmess, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, alterId: 0, cipher: auto, tls: true, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, network: ws, ws-opts: {path: /?fake=1, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, alterId: 0, cipher: auto, tls: true, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, network: ws, ws-opts: {path: /?fake=1, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}, udp: false}
   - {name: "سرویس رایگان نوا nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]", server: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, port: 443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.34.22:2053 [VLESS]", server: 104.19.34.22, port: 2053, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.176.63:2087 [VLESS]", server: 104.17.176.63, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.21.255:443 [VLESS]", server: 104.17.21.255, port: 443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.163.201:8443 [VLESS]", server: 104.17.163.201, port: 8443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.216.32:2083 [VLESS]", server: 104.17.216.32, port: 2083, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 172.67.65.83:2087 [VLESS]", server: 172.67.65.83, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.173.172:2087 [VLESS]", server: 104.17.173.172, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 8.35.211.1:2096 [VLESS]", server: 8.35.211.1, port: 2096, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.16.244.31:2087 [VLESS]", server: 104.16.244.31, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.26.2.169:2096 [VLESS]", server: 104.26.2.169, port: 2096, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.35.43:443 [VLESS]", server: 104.19.35.43, port: 443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.97.10:443 [VLESS]", server: 104.17.97.10, port: 443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.16.243.232:2087 [VLESS]", server: 104.16.243.232, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 172.66.2.173:2096 [VLESS]", server: 172.66.2.173, port: 2096, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 162.159.38.173:2053 [VLESS]", server: 162.159.38.173, port: 2053, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.173.40:2096 [VLESS]", server: 104.17.173.40, port: 2096, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 173.245.58.11:8443 [VLESS]", server: 173.245.58.11, port: 8443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 198.41.209.70:2083 [VLESS]", server: 198.41.209.70, port: 2083, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.26.2.206:2053 [VLESS]", server: 104.26.2.206, port: 2053, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.147.108:2087 [VLESS]", server: 104.19.147.108, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 188.164.248.66:2087 [VLESS]", server: 188.164.248.66, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.18.156:2087 [VLESS]", server: 104.17.18.156, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 188.164.248.255:2053 [VLESS]", server: 188.164.248.255, port: 2053, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 198.41.208.163:2087 [VLESS]", server: 198.41.208.163, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 91.193.59.240:2087 [VLESS]", server: 91.193.59.240, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.166.40:8443 [VLESS]", server: 104.17.166.40, port: 8443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 173.245.58.167:8443 [VLESS]", server: 173.245.58.167, port: 8443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.18.33.184:443 [VLESS]", server: 104.18.33.184, port: 443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.149.85:2087 [VLESS]", server: 104.19.149.85, port: 2087, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.23.134:8443 [VLESS]", server: 104.17.23.134, port: 8443, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 108.162.198.224:2053 [VLESS]", server: 108.162.198.224, port: 2053, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
+  - {name: "سرویس رایگان نوا 198.41.209.61:2083 [VLESS]", server: 198.41.209.61, port: 2083, type: vless, uuid: c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b, tls: true, skip-cert-verify: false, servername: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -59,22 +59,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.19.34.22:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.176.63:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.21.255:443 [VLESS]
-      - سرویس رایگان نوا 104.17.163.201:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.216.32:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.65.83:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.173.172:2087 [VLESS]
-      - سرویس رایگان نوا 8.35.211.1:2096 [VLESS]
-      - سرویس رایگان نوا 104.16.244.31:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.169:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.35.43:443 [VLESS]
-      - سرویس رایگان نوا 104.17.97.10:443 [VLESS]
-      - سرویس رایگان نوا 104.16.243.232:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.2.173:2096 [VLESS]
-      - سرویس رایگان نوا 162.159.38.173:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.173.40:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.11:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.70:2083 [VLESS]
+      - سرویس رایگان نوا 104.26.2.206:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.147.108:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.66:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.18.156:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.255:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.163:2087 [VLESS]
+      - سرویس رایگان نوا 91.193.59.240:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.166.40:8443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.167:8443 [VLESS]
+      - سرویس رایگان نوا 104.18.33.184:443 [VLESS]
+      - سرویس رایگان نوا 104.19.149.85:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.23.134:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.224:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.61:2083 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -82,44 +82,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.19.34.22:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.176.63:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.21.255:443 [VLESS]
-      - سرویس رایگان نوا 104.17.163.201:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.216.32:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.65.83:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.173.172:2087 [VLESS]
-      - سرویس رایگان نوا 8.35.211.1:2096 [VLESS]
-      - سرویس رایگان نوا 104.16.244.31:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.169:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.35.43:443 [VLESS]
-      - سرویس رایگان نوا 104.17.97.10:443 [VLESS]
-      - سرویس رایگان نوا 104.16.243.232:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.2.173:2096 [VLESS]
-      - سرویس رایگان نوا 162.159.38.173:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.173.40:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.11:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.70:2083 [VLESS]
+      - سرویس رایگان نوا 104.26.2.206:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.147.108:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.66:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.18.156:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.255:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.163:2087 [VLESS]
+      - سرویس رایگان نوا 91.193.59.240:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.166.40:8443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.167:8443 [VLESS]
+      - سرویس رایگان نوا 104.18.33.184:443 [VLESS]
+      - سرویس رایگان نوا 104.19.149.85:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.23.134:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.224:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.61:2083 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.19.34.22:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.176.63:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.21.255:443 [VLESS]
-      - سرویس رایگان نوا 104.17.163.201:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.216.32:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.65.83:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.173.172:2087 [VLESS]
-      - سرویس رایگان نوا 8.35.211.1:2096 [VLESS]
-      - سرویس رایگان نوا 104.16.244.31:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.169:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.35.43:443 [VLESS]
-      - سرویس رایگان نوا 104.17.97.10:443 [VLESS]
-      - سرویس رایگان نوا 104.16.243.232:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.2.173:2096 [VLESS]
-      - سرویس رایگان نوا 162.159.38.173:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.173.40:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.11:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.70:2083 [VLESS]
+      - سرویس رایگان نوا 104.26.2.206:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.147.108:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.66:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.18.156:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.255:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.163:2087 [VLESS]
+      - سرویس رایگان نوا 91.193.59.240:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.166.40:8443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.167:8443 [VLESS]
+      - سرویس رایگان نوا 104.18.33.184:443 [VLESS]
+      - سرویس رایگان نوا 104.19.149.85:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.23.134:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.224:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.61:2083 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -127,22 +127,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.19.34.22:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.176.63:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.21.255:443 [VLESS]
-      - سرویس رایگان نوا 104.17.163.201:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.216.32:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.65.83:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.173.172:2087 [VLESS]
-      - سرویس رایگان نوا 8.35.211.1:2096 [VLESS]
-      - سرویس رایگان نوا 104.16.244.31:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.169:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.35.43:443 [VLESS]
-      - سرویس رایگان نوا 104.17.97.10:443 [VLESS]
-      - سرویس رایگان نوا 104.16.243.232:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.2.173:2096 [VLESS]
-      - سرویس رایگان نوا 162.159.38.173:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.173.40:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.11:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.70:2083 [VLESS]
+      - سرویس رایگان نوا 104.26.2.206:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.147.108:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.66:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.18.156:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.255:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.163:2087 [VLESS]
+      - سرویس رایگان نوا 91.193.59.240:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.166.40:8443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.167:8443 [VLESS]
+      - سرویس رایگان نوا 104.18.33.184:443 [VLESS]
+      - سرویس رایگان نوا 104.19.149.85:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.23.134:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.224:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.61:2083 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -169,22 +169,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.19.34.22:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.176.63:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.21.255:443 [VLESS]
-      - سرویس رایگان نوا 104.17.163.201:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.216.32:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.65.83:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.173.172:2087 [VLESS]
-      - سرویس رایگان نوا 8.35.211.1:2096 [VLESS]
-      - سرویس رایگان نوا 104.16.244.31:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.169:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.35.43:443 [VLESS]
-      - سرویس رایگان نوا 104.17.97.10:443 [VLESS]
-      - سرویس رایگان نوا 104.16.243.232:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.2.173:2096 [VLESS]
-      - سرویس رایگان نوا 162.159.38.173:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.173.40:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.11:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.70:2083 [VLESS]
+      - سرویس رایگان نوا 104.26.2.206:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.147.108:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.66:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.18.156:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.255:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.163:2087 [VLESS]
+      - سرویس رایگان نوا 91.193.59.240:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.166.40:8443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.167:8443 [VLESS]
+      - سرویس رایگان نوا 104.18.33.184:443 [VLESS]
+      - سرویس رایگان نوا 104.19.149.85:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.23.134:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.224:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.61:2083 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -197,22 +197,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.19.34.22:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.176.63:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.21.255:443 [VLESS]
-      - سرویس رایگان نوا 104.17.163.201:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.216.32:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.65.83:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.173.172:2087 [VLESS]
-      - سرویس رایگان نوا 8.35.211.1:2096 [VLESS]
-      - سرویس رایگان نوا 104.16.244.31:2087 [VLESS]
-      - سرویس رایگان نوا 104.26.2.169:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.35.43:443 [VLESS]
-      - سرویس رایگان نوا 104.17.97.10:443 [VLESS]
-      - سرویس رایگان نوا 104.16.243.232:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.2.173:2096 [VLESS]
-      - سرویس رایگان نوا 162.159.38.173:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.173.40:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.11:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.70:2083 [VLESS]
+      - سرویس رایگان نوا 104.26.2.206:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.147.108:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.66:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.18.156:2087 [VLESS]
+      - سرویس رایگان نوا 188.164.248.255:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.163:2087 [VLESS]
+      - سرویس رایگان نوا 91.193.59.240:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.166.40:8443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.167:8443 [VLESS]
+      - سرویس رایگان نوا 104.18.33.184:443 [VLESS]
+      - سرویس رایگان نوا 104.19.149.85:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.23.134:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.224:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.61:2083 [VLESS]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
