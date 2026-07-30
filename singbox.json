@@ -70,19 +70,19 @@
       "tag": "📢 https://t.me/irnova_proxy",
       "server": "192.0.2.1",
       "server_port": 443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
       "security": "auto",
       "alter_id": 0,
       "transport": {
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
       }
     },
     {
@@ -90,19 +90,19 @@
       "tag": "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
       "server": "192.0.2.1",
       "server_port": 443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
       "security": "auto",
       "alter_id": 0,
       "transport": {
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
       }
     },
     {
@@ -111,20 +111,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy nova-pixel-spark-145e.aliahmadhosseini5.workers.dev:443 [VLESS]",
-      "server": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
+      "tag": "سرویس رایگان نوا @irnova_proxy nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]",
+      "server": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
       "server_port": 443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -134,20 +134,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 8.39.125.100:2087 [VLESS]",
-      "server": "8.39.125.100",
-      "server_port": 2087,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
+      "tag": "سرویس رایگان نوا @irnova_proxy 173.245.58.11:8443 [VLESS]",
+      "server": "173.245.58.11",
+      "server_port": 8443,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -157,112 +157,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 91.193.59.104:2087 [VLESS]",
-      "server": "91.193.59.104",
-      "server_port": 2087,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.26.8.222:2053 [VLESS]",
-      "server": "104.26.8.222",
-      "server_port": 2053,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.245.58:2087 [VLESS]",
-      "server": "104.16.245.58",
-      "server_port": 2087,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.146.232:443 [VLESS]",
-      "server": "104.17.146.232",
-      "server_port": 443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.148.119:2083 [VLESS]",
-      "server": "104.19.148.119",
+      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.209.70:2083 [VLESS]",
+      "server": "198.41.209.70",
       "server_port": 2083,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -272,158 +180,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.188.85:2083 [VLESS]",
-      "server": "104.17.188.85",
-      "server_port": 2083,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.33.97:443 [VLESS]",
-      "server": "104.18.33.97",
-      "server_port": 443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 162.159.47.30:8443 [VLESS]",
-      "server": "162.159.47.30",
-      "server_port": 8443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.211.100:2096 [VLESS]",
-      "server": "104.17.211.100",
-      "server_port": 2096,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.148.198:443 [VLESS]",
-      "server": "104.19.148.198",
-      "server_port": 443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.150.71:8443 [VLESS]",
-      "server": "104.17.150.71",
-      "server_port": 8443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 172.66.2.30:2053 [VLESS]",
-      "server": "172.66.2.30",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.26.2.206:2053 [VLESS]",
+      "server": "104.26.2.206",
       "server_port": 2053,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -433,66 +203,342 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 188.164.248.251:8443 [VLESS]",
-      "server": "188.164.248.251",
-      "server_port": 8443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.148.56:443 [VLESS]",
-      "server": "104.17.148.56",
-      "server_port": 443,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.182.139:2087 [VLESS]",
-      "server": "104.17.182.139",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.147.108:2087 [VLESS]",
+      "server": "104.19.147.108",
       "server_port": 2087,
-      "uuid": "80bac59f-d829-47e7-844d-816469fa3e25",
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev"
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-pixel-spark-145e.aliahmadhosseini5.workers.dev",
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 188.164.248.66:2087 [VLESS]",
+      "server": "188.164.248.66",
+      "server_port": 2087,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.18.156:2087 [VLESS]",
+      "server": "104.17.18.156",
+      "server_port": 2087,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 188.164.248.255:2053 [VLESS]",
+      "server": "188.164.248.255",
+      "server_port": 2053,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.208.163:2087 [VLESS]",
+      "server": "198.41.208.163",
+      "server_port": 2087,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 91.193.59.240:2087 [VLESS]",
+      "server": "91.193.59.240",
+      "server_port": 2087,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.166.40:8443 [VLESS]",
+      "server": "104.17.166.40",
+      "server_port": 8443,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 173.245.58.167:8443 [VLESS]",
+      "server": "173.245.58.167",
+      "server_port": 8443,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.33.184:443 [VLESS]",
+      "server": "104.18.33.184",
+      "server_port": 443,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.149.85:2087 [VLESS]",
+      "server": "104.19.149.85",
+      "server_port": 2087,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.23.134:8443 [VLESS]",
+      "server": "104.17.23.134",
+      "server_port": 8443,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 108.162.198.224:2053 [VLESS]",
+      "server": "108.162.198.224",
+      "server_port": 2053,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.209.61:2083 [VLESS]",
+      "server": "198.41.209.61",
+      "server_port": 2083,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+      "server": "104.18.1.1",
+      "server_port": 2053,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
+      "server": "104.18.0.0",
+      "server_port": 443,
+      "uuid": "c2a5f4a9-392d-4cc7-870d-6904b1cb1e2b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -510,46 +556,50 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "سرویس رایگان نوا @irnova_proxy nova-pixel-spark-145e.aliahmadhosseini5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.100:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.59.104:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.8.222:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.245.58:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.146.232:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.119:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.188.85:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.97:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.47.30:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.211.100:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.150.71:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.2.30:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 188.164.248.251:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.148.56:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.182.139:2087 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.11:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.70:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.26.2.206:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.147.108:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.66:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.18.156:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.255:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.208.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.240:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.166.40:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.167:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.184:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.85:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.23.134:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.224:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.61:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy nova-pixel-spark-145e.aliahmadhosseini5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.100:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.59.104:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.8.222:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.245.58:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.146.232:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.119:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.188.85:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.97:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.47.30:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.211.100:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.150.71:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.2.30:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 188.164.248.251:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.148.56:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.182.139:2087 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.11:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.70:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.26.2.206:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.147.108:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.66:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.18.156:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.255:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.208.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.240:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.166.40:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.167:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.184:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.85:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.23.134:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.224:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.61:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -559,46 +609,50 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy nova-pixel-spark-145e.aliahmadhosseini5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.100:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.59.104:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.8.222:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.245.58:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.146.232:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.119:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.188.85:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.97:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.47.30:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.211.100:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.150.71:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.2.30:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 188.164.248.251:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.148.56:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.182.139:2087 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.11:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.70:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.26.2.206:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.147.108:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.66:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.18.156:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.255:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.208.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.240:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.166.40:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.167:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.184:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.85:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.23.134:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.224:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.61:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy nova-pixel-spark-145e.aliahmadhosseini5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.100:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.59.104:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.8.222:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.245.58:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.146.232:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.119:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.188.85:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.97:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.47.30:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.211.100:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.150.71:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.2.30:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 188.164.248.251:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.148.56:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.182.139:2087 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.11:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.70:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.26.2.206:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.147.108:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.66:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.18.156:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.255:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.208.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.240:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.166.40:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.167:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.184:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.85:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.23.134:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.224:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.61:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ]
     },
     {
@@ -633,23 +687,25 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova_proxy nova-pixel-spark-145e.aliahmadhosseini5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.100:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.59.104:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.8.222:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.245.58:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.146.232:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.119:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.188.85:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.97:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.47.30:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.211.100:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.150.71:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.2.30:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 188.164.248.251:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.148.56:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.182.139:2087 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.11:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.70:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.26.2.206:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.147.108:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.66:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.18.156:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.255:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.208.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.240:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.166.40:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.167:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.184:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.85:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.23.134:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.224:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.61:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ]
     },
     {
@@ -664,23 +720,25 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova_proxy nova-pixel-spark-145e.aliahmadhosseini5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.100:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.59.104:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.8.222:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.245.58:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.146.232:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.119:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.188.85:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.97:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.47.30:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.211.100:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.150.71:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.2.30:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 188.164.248.251:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.148.56:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.182.139:2087 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.11:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.70:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.26.2.206:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.147.108:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.66:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.18.156:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.255:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.208.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.240:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.166.40:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.167:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.184:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.85:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.23.134:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.224:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.61:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ]
     },
     {
@@ -690,28 +748,48 @@
         "📢 https://t.me/irnova_proxy",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
         "DIRECT",
-        "سرویس رایگان نوا @irnova_proxy nova-pixel-spark-145e.aliahmadhosseini5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.100:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.59.104:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.8.222:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.245.58:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.146.232:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.119:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.188.85:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.97:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.47.30:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.211.100:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.148.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.150.71:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.2.30:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 188.164.248.251:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.148.56:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.182.139:2087 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy nova-comet-portal-bfd7.aliahmadhosseini5-f73.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.11:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.70:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.26.2.206:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.147.108:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.66:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.18.156:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.255:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.208.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.240:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.166.40:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.167:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.184:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.85:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.23.134:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.224:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.61:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ]
     },
     {
       "type": "block",
       "tag": "REJECT"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Nova-WARP",
+      "server": "engage.cloudflareclient.com",
+      "server_port": 2408,
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:89ad:3d34:aa5a:9476:3c46/128"
+      ],
+      "private_key": "P9OQ4hQU9oX6g+tOrcBnhy6DULakXEJX9ke5GholnIQ=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [
+        180,
+        151,
+        126
+      ],
+      "mtu": 1280
     }
   ],
   "route": {
@@ -7214,7 +7292,107 @@
           "yvrieb1ln.td3wc.adobestats.io",
           "yz8yn0nr.td3wc.adobestats.io",
           "zpbpfbu6cpq.td3wc.adobestats.io",
-          "zxreowyzyof.td3wc.adobestats.io"
+          "zxreowyzyof.td3wc.adobestats.io",
+          "5llohiaf7b8b.61y77.adobestats.io",
+          "ubhkyiqkbp.xwk4b.adobestats.io",
+          "g7os4a6l.xwk4b.adobestats.io",
+          "y6e93e0muejm.nr94p.adobestats.io",
+          "1hac93w4ciq.nr94p.adobestats.io",
+          "01abhoynm.nr94p.adobestats.io",
+          "0ooc20j9s.nr94p.adobestats.io",
+          "1gby18snre.nr94p.adobestats.io",
+          "1oz5hcjo.nr94p.adobestats.io",
+          "290rf2vhmu.nr94p.adobestats.io",
+          "30q933u7wy9r.nr94p.adobestats.io",
+          "36ozobot30z.nr94p.adobestats.io",
+          "3kuc4wqjj.nr94p.adobestats.io",
+          "3o85zdgjsx.nr94p.adobestats.io",
+          "3ome07ychh.nr94p.adobestats.io",
+          "42ory1yh.nr94p.adobestats.io",
+          "4f7jz1g4.nr94p.adobestats.io",
+          "4iulukcwiegq.nr94p.adobestats.io",
+          "4mat7xp2xg5g.nr94p.adobestats.io",
+          "50kpnscqsj.nr94p.adobestats.io",
+          "5im6bd893.nr94p.adobestats.io",
+          "6il8a3gzd.nr94p.adobestats.io",
+          "7phwb6gtdcht.nr94p.adobestats.io",
+          "7vm0xgjs0.nr94p.adobestats.io",
+          "7xapbz5h2.nr94p.adobestats.io",
+          "8i07lr2rq.nr94p.adobestats.io",
+          "8iub6mx157.nr94p.adobestats.io",
+          "9cs6rc6276b.nr94p.adobestats.io",
+          "9o0jk46qf0.nr94p.adobestats.io",
+          "9wqj0iv0yf.nr94p.adobestats.io",
+          "aalb8k11in.nr94p.adobestats.io",
+          "adngtkuc6b5.nr94p.adobestats.io",
+          "aed8sg7yz.nr94p.adobestats.io",
+          "annjtcryg62b.nr94p.adobestats.io",
+          "by87c7ec.nr94p.adobestats.io",
+          "c4yb8tz6izw.nr94p.adobestats.io",
+          "c5tyuqjsd.nr94p.adobestats.io",
+          "chnhlmohuv.nr94p.adobestats.io",
+          "cvhlqpka3s.nr94p.adobestats.io",
+          "d12u58m1b.nr94p.adobestats.io",
+          "d335krk4.nr94p.adobestats.io",
+          "d9ed5hg1qkl.nr94p.adobestats.io",
+          "dhaxfwpz4bo0.nr94p.adobestats.io",
+          "dkz7ipdfyh.nr94p.adobestats.io",
+          "dpej8fcn25t8.nr94p.adobestats.io",
+          "dr8x5omtss.nr94p.adobestats.io",
+          "eckbuc2d721m.nr94p.adobestats.io",
+          "egpmu3m9ouie.nr94p.adobestats.io",
+          "fpqy3zb8.nr94p.adobestats.io",
+          "fpr3nxsr.nr94p.adobestats.io",
+          "fqwuxxkmqg.nr94p.adobestats.io",
+          "g8b5rgjre.nr94p.adobestats.io",
+          "gsbaswsx.nr94p.adobestats.io",
+          "hsemeynpq0zk.nr94p.adobestats.io",
+          "i86482u77.nr94p.adobestats.io",
+          "ieqa4ytluh1i.nr94p.adobestats.io",
+          "izktsj8t.nr94p.adobestats.io",
+          "jln11nvsqd.nr94p.adobestats.io",
+          "kyjvuf68in.nr94p.adobestats.io",
+          "l04lq23zzw6.nr94p.adobestats.io",
+          "lckizcs8o.nr94p.adobestats.io",
+          "lnqubgnso.nr94p.adobestats.io",
+          "lnrbgca6tkj.nr94p.adobestats.io",
+          "maxx5ddw4.nr94p.adobestats.io",
+          "oto8hz22l.nr94p.adobestats.io",
+          "ouf9hcf0jt.nr94p.adobestats.io",
+          "pt4vvg35di.nr94p.adobestats.io",
+          "q17pfsrw.nr94p.adobestats.io",
+          "q6tdlirko.nr94p.adobestats.io",
+          "qhs2v26k5.nr94p.adobestats.io",
+          "qqbp8gj8il.nr94p.adobestats.io",
+          "qsxuikk100.nr94p.adobestats.io",
+          "qw4i1um9em.nr94p.adobestats.io",
+          "rbwbrei60xwp.nr94p.adobestats.io",
+          "rpdipj5zz.nr94p.adobestats.io",
+          "rphyzefeaz.nr94p.adobestats.io",
+          "s9y2hfs9.nr94p.adobestats.io",
+          "sr5awkb8ue8q.nr94p.adobestats.io",
+          "st0bx76jdf4x.nr94p.adobestats.io",
+          "tlb4is2tf.nr94p.adobestats.io",
+          "u29gfjmwa0.nr94p.adobestats.io",
+          "u3qf7ehi4gp.nr94p.adobestats.io",
+          "ut5nd2k6aeo5.nr94p.adobestats.io",
+          "utxfcphncs8t.nr94p.adobestats.io",
+          "vcd913y3.nr94p.adobestats.io",
+          "w52otih99rc9.nr94p.adobestats.io",
+          "waqbx5t4lv.nr94p.adobestats.io",
+          "wdrm00gf1a.nr94p.adobestats.io",
+          "wi8m746hdbn.nr94p.adobestats.io",
+          "wntv058amun.nr94p.adobestats.io",
+          "wrrawpzaso.nr94p.adobestats.io",
+          "wuielahst2wf.nr94p.adobestats.io",
+          "x1gi903hr19.nr94p.adobestats.io",
+          "xr02q7ltcx6l.nr94p.adobestats.io",
+          "xu52f3tbxfz.nr94p.adobestats.io",
+          "xwu5z1zb09.nr94p.adobestats.io",
+          "yfm7nstt.nr94p.adobestats.io",
+          "ylvb9g7k5n.nr94p.adobestats.io",
+          "zcq3wsd5lnx.nr94p.adobestats.io",
+          "zkw1mdmx.nr94p.adobestats.io"
         ],
         "outbound": "🛑 全球拦截",
         "action": "route"
@@ -10122,7 +10300,7 @@
       }
     ],
     "auto_detect_interface": true,
-    "final": "🐟 漏网之鱼",
+    "final": "Nova-WARP",
     "rule_set": [
       {
         "tag": "geoip-cn",
